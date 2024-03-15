@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/Megznaik/megznaik/blob/main/Blue%20%26%20white%20minimal%20linkedin%20profile%20cover%20image.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Megha Naik</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*PXf5ge7QCN9Ga_CL.gif">
